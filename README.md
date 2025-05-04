@@ -2,7 +2,7 @@
 **`Front-end Developer`**
 
 - 🔭 Conclui meu ensino médio na escola profissionalizante de informática Dona Creusa do Carmo Rocha. Sempre gostei muito de tecnologia em geral, mas minha paixão é a programação. Atualmente sou um Front-end Developer e continuo aprendendo mais a cada dia.
----
+
 
 ## Tecnologias
 <div align="center">
