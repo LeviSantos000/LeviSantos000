@@ -3,7 +3,7 @@
 
 - 🔭 Conclui meu ensino médio na escola profissionalizante de informática Dona Creusa do Carmo Rocha. Sempre gostei muito de tecnologia em geral, mas minha paixão é a programação. Atualmente sou um Full Stack Developer e continuo aprendendo mais a cada dia.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeviSantos000&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeviSantos000&show_icons=true&theme=dark)
 
 ## Tecnologias
 <div align="center">
