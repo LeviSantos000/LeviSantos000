@@ -1,7 +1,7 @@
 # 👾Levi Santos
-**`Full Stack Developer`**
+**`Developer`**
 <br>
-🔭 Conclui meu ensino médio na escola profissionalizante de informática Dona Creusa do Carmo Rocha. Sempre gostei muito de tecnologia em geral, mas minha paixão é a programação. Atualmente sou um Full Stack Developer e continuo aprendendo mais a cada dia.
+🔭 Conclui meu ensino médio na escola profissionalizante de informática Dona Creusa do Carmo Rocha. Sempre gostei muito de tecnologia em geral, mas minha paixão é a programação.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeviSantos000&show_icons=true&theme=tokyonight)
 <!-- <img width="200" height="200" src="https://cdn.discordapp.com/attachments/745592795229716532/1370424529037426782/IMG_9302.gif?ex=681f72cc&is=681e214c&hm=26e6b630ffa9892ee70cb03622b1dda1aa47d1624a0314e06e9aac842a3276f6&"> -->
