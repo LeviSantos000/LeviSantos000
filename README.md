@@ -1,7 +1,7 @@
 # 👾Levi Santos
 **`Developer`**
 <br>
-🔭 I'm a Systems Analysis and Development student.
+📚 I'm a Systems Analysis and Development student.
 
 ## Tecnologias
 <div align="center">
